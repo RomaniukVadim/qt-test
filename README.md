@@ -1,4 +1,4 @@
-## QT Test Projects
+# QT Test Projects
 
 ## Contributing
 
